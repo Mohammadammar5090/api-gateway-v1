@@ -10,7 +10,7 @@ export default async function (request: ZuploRequest, context: ZuploContext) {
   /**
    * If you want to proxy an API, you can simply
    * return the content of a fetch. Try it by
-   * uncommenting the line below.
+   * uncommenting the line below.s
    */
   // return fetch('http://www.example.com/');
 
